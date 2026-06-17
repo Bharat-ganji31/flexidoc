@@ -43,5 +43,5 @@ h1, h2, h3, h4, h5, h6 {
 
 @layer base {
   * { @apply border-zinc-800; }
-  body { @apply bg-background text-foreground; }
+  body { @apply bg-zinc-950 text-zinc-50; }
 }
